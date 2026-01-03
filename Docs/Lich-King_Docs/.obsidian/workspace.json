@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "b4b6106e9f2d9117",
+    "type": "split",
+    "children": [
+      {
+        "id": "38ddcb502394d640",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f583e5e145554b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Материалы/LinkedMaterial.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LinkedMaterial"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8024908c1fde548b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1db760d4e22ee7cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f08b5d203123184",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b8ef961e58951d9e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "drill core",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "79f15415f2851fd7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 285.5
+  },
+  "right": {
+    "id": "3aa63b81b108e274",
+    "type": "split",
+    "children": [
+      {
+        "id": "87f1319db94359a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c844867f7bdd1a7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Материалы/LinkedMaterial.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for LinkedMaterial"
+            }
+          },
+          {
+            "id": "f0f078c18ff1dd29",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Материалы/LinkedMaterial.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from LinkedMaterial"
+            }
+          },
+          {
+            "id": "c4d10eabf8443f6d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cf26dcf8d79928d0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "125da542c28d1322",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Материалы/LinkedMaterial.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of LinkedMaterial"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "1f583e5e145554b5",
+  "lastOpenFiles": [
+    "ДизайнДокумент/GUI_tactic_view.drawio",
+    "Материалы/LinkedMaterial.md",
+    "ДизайнДокумент/Стратегия_2025.08.17.drawio",
+    "ДизайнДокумент/Style_2025_08_17.drawio",
+    "ДизайнДокумент/LetThemTrade.jpg",
+    "Мифы/Ежов В. В_Мифы древнего Китая.pdf",
+    "Сюжет/The_Plot.drawio",
+    "Untitled.base",
+    "ДизайнДокумент/Моаш.txt",
+    "ДизайнДокумент/Schluten 2025-04-06-12-07.map",
+    "ДизайнДокумент/Стратегия.drawio",
+    "ДизайнДокумент",
+    "LetThemTrade.jpg",
+    "Welcome.md"
+  ]
+}
