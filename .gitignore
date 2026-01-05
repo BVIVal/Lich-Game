@@ -97,3 +97,9 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+
+Docs/Lich-King_Docs/.obsidian/*
+### Obsidian ###
+# config dir
+Docs/Lich-King_Docs/.obsidian/*
